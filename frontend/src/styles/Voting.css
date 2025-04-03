@@ -1,0 +1,26 @@
+.voting{
+    height: 250px;
+    width: 500px;
+    background-color: aliceblue;
+}
+
+.voting h1{
+    font-style: italic;
+    font-size: 40px;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: top;  
+    background-color: #08a7e6;  
+}
+
+.input-feild{
+    margin: 30px;
+}
+.input-feild select{
+    height: 30px;
+    width: 200px;
+    margin: 10px;
+    border-radius: 5px;
+    margin-bottom: 30px;
+}
