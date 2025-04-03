@@ -1,6 +1,6 @@
 const mongoose = require("mongoose");
 
-mongoose.connect("mongodb://127.0.0.1:27017/votingDB", {
+mongoose.connect("mongodb+srv://vvinayvamsi:123123@online-voting.k20op.mongodb.net/", {
     useNewUrlParser: true,
     useUnifiedTopology: true
 })
